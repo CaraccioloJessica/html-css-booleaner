@@ -8,6 +8,7 @@ header{
   height: 100px ;
   background-color: #4EA0FF;
   background-repeat: repeat-x;
+  margin-bottom: 200px;
 }
 
 .logo{
@@ -37,4 +38,14 @@ header h4{
   color: gray;
   font-size: 15px;
 }
+
+.immagini {
+ margin-left: 10px;
+}
+
+.descrizione{
+  margin-left: 10px;
+  font-size: 12px;
+}
+
 
