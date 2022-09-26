@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+}
+
+header{
+  background-image: url("../img/pattern.png"); 
+  background-size: 400px;
+  height: 100px ;
+  background-color: #4EA0FF;
+  background-repeat: repeat-x;
+}
+
+.logo{
+  width: 15%;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+h1{
+  font-size: 50px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+header h3{
+  margin-left: 10px;
+  color: gray;
+}
+
+header span{
+  color: #54BFEC;
+}
+
+header h4{
+  margin-left: 10px;
+  color: gray;
+  font-size: 15px;
+}
+
